@@ -1,0 +1,35 @@
+#Alumnos
+
+Gabriel Giannoni
+Emanuel Lopez
+
+# Árboles en Python
+
+## Descripción del Proyecto
+
+Este proyecto muestra cómo implementar un árbol binario en Python. Incluye funciones para 
+buscar elementos y recorrer el árbol en orden inorden, preorden y postorden. Se utiliza recursividad
+ para navegar la estructura y visualizar su funcionamiento.
+
+## Instrucciones de Uso
+
+1. Asegurate de tener Python 3 instalado.
+2. Ejecutá el archivo del proyecto ("python arbol.py").
+3. El programa imprimirá los tres tipos de recorrido:
+   - **Inorden**: 2 5 7 10 12 15 20  
+   - **Preorden**: 10 5 2 7 15 12 20  
+   - **Postorden**: 2 7 5 12 20 15 10  
+4. Además, busca un valor en el árbol (en este caso el 12) y muestra si se encuentra o no.
+
+El árbol está representado como listas anidadas con el siguiente formato:  
+"[valor, subárbol_izquierdo, subárbol_derecho]"
+
+## Reflexión del Equipo
+
+Elegimos trabajar con árboles porque era un tema nuevo para nosotros. Durante el proyecto aprendimos 
+sobre estructuras jerárquicas, recursividad y cómo representar árboles binarios en Python. Fue una 
+experiencia desafiante pero enriquecedora que nos permitió conectar teoría con práctica, y aplicar 
+conceptos que no habíamos usado antes.
+
+## Link del Video 
+
